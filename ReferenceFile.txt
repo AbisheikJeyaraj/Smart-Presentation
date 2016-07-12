@@ -1,0 +1,19 @@
+$ heroku login ( Login to heroku. will ask for mailid and pw.)
+$ heroku git:clone -a abisheik-online-presentation ( this cmd needed for the first time only)
+$ cd abisheik-online-presentation ( cd to F:\Abisheik_Class_ Works\SUMMER-2016\DSSO\abisheik-online-presentation )
+$ git add . ( to add the changes in files)
+$ git commit -am "make it better" ( comit cmd)
+$ git push heroku master ( push to heroku )
+
+
+All cmds
+~~~~~~~~
+heroku login
+heroku git:clone -a abisheik-online-presentation
+
+F:
+cd F:\Abisheik_Class_ Works\SUMMER-2016\DSSO\abisheik-online-presentation
+
+git add .
+git commit -am "make it better"
+git push heroku master
